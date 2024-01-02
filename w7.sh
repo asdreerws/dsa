@@ -49,6 +49,7 @@ INSTALL_XFCE=yes
 INSTALL_CINNAMON=yes
 INSTALL_CHROME=yes
 INSTALL_FULL_DESKTOP=yes
+INSTALL_XARCHIVER=yes
 
 # Any additional packages that should be installed on startup can be added here
 EXTRA_PACKAGES="less bzip2 zip unzip tasksel wget"
